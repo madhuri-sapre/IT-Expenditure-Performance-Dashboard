@@ -1,5 +1,10 @@
-# Project 
+# Project Title
 IT-Expenditure-Performance-Dashboard
+
+
+# Description 
+An interactive Excel dashboard analyzing IT expenditure with insights on Actual vs Plan vs Forecast, YTD variances, cost trends, and business/IT area performance. Includes slicers and KPIs for clear financial decision-making.
+
 
 
 # Overview
